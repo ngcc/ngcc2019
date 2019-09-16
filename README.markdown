@@ -8,6 +8,7 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
  * [Transaction Management on Cassandra][transaction_management_on_cassandra]
  * [RocksDB Based Storage Engine Recent Improvements][rocksandra-update]
  * [Using the TLP Toolchain as a Crystal Ball for Your Cluster][tlp_toolchain]
+ * [Row Level Repair][row_level_repair]
 
 
 
@@ -16,3 +17,4 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
 [transaction_management_on_cassandra]: TransactionManagementOnCassandra.pdf
 [rocksandra-update]: rocksandra-update.pdf
 [tlp_toolchain]: UsingTheTLPToolChainAsACrystalBallForYourCluster.pdf
+[row_level_repair]: Row.Level.Repair.ApacheCon.NGCC.2019.pdf
