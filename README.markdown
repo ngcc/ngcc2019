@@ -12,6 +12,8 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
  * [How Netflix Debugs and Fixes Apache Cassandra When it Breaks][netflix_debugging]
  * [Next Generation Cassandra Compaction][nextgen_compaction]
  * [How Netflix Manages Petabyte Scale Apache Cassandra][petabyte_cassandra]
+ * [Row Level Repair][row_level_repair]
+
 
 [tokens]: CassandraTokenManagement.pdf
 [cloud_native_cassandra]: Building%20and%20running%20cloud-native%20Cassandra.pdf
@@ -22,3 +24,4 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
 [netflix_debugging]: HowNetflixDebugsAndFixesApacheCassandraWhenItBreaks.pdf
 [petabyte_cassandra]: HowNetflixManagesPetabyteScaleApacheCassandraInTheCloud.pdf
 [nextgen_compaction]: NextGenerationCassandraCompactionGoingBeyondLCS.pdf
+[row_level_repair]: Row.Level.Repair.ApacheCon.NGCC.2019.pdf
