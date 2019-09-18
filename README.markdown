@@ -13,6 +13,7 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
  * [Next Generation Cassandra Compaction][nextgen_compaction]
  * [How Netflix Manages Petabyte Scale Apache Cassandra][petabyte_cassandra]
  * [Row Level Repair][row_level_repair]
+ * [Cassandra at Instagram 2019][cassandra_ig_2019]
 
 
 [tokens]: CassandraTokenManagement.pdf
@@ -25,3 +26,4 @@ Next-generation Cassandra Conference / ApacheCon NA 2019
 [petabyte_cassandra]: HowNetflixManagesPetabyteScaleApacheCassandraInTheCloud.pdf
 [nextgen_compaction]: NextGenerationCassandraCompactionGoingBeyondLCS.pdf
 [row_level_repair]: Row.Level.Repair.ApacheCon.NGCC.2019.pdf
+[cassandra_ig_2019]: Cassandra%20at%20Instagram%202019.pdf
